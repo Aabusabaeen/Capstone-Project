@@ -7,7 +7,7 @@ Capstone Project:
 
 Why this topic: 
 When Fatema Alamer was presenting her capstone project from the previous DSI course, she influnced me to find answers for:
-1- How much is the effect of COVID-19 in the Saudi imports & export?
+1- How much is the effect of COVID-19 on the Saudi imports & export?
 2- What are the main areas that got affected? 
 3- How much did the Saudi import & export change from 2011 to 2020?
 4- What does Saudi export the most? Such as dates, cooking oil, used cars, used clothes, etc.
@@ -15,6 +15,7 @@ When Fatema Alamer was presenting her capstone project from the previous DSI cou
 6- What are the things that Saudi is planning to produce to lower their dependincy on importing? military equipment, electric cars, etc. 
 7- How much has Saudi been importing & exporting in petrochemicals, medicine, car parts, and vegetables? 
 
+Intersting Question: How much does the oil exports add to the Saudi economy? 
 
 All of these questions, and even more, can be answered from these massive excel sheets I found online. 
 I can even look up online how much Saudi is expecting to produce by 2030, and estimate how much money Saudi would spend inside the country rather than spending outside the country on importing.
