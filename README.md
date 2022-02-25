@@ -2,11 +2,11 @@
 This is the repository where I am adding all the files I am using in my Capstone Project
 
 
-Capstone Project: 
-- Topic: The size of the tradings in Saudi Arabia from 2018-2021 (before and during covid).
+Topic: The size of the trading in Saudi Arabia from 2018-2021 (before and during covid).
 
 Why this topic: 
 When Fatema Alamer was presenting her capstone project from the previous DSI course, she influnced me to find answers for:
+
 1- How much is the effect of COVID-19 on the Saudi imports & export?
 2- What are the main areas that got affected? 
 3- How much did the Saudi import & export change from 2011 to 2020?
