@@ -1,24 +1,32 @@
-# Capstone-Project
-This is the repository where I am adding all the files I am using in my Capstone Project
+# Effect of COVID-19 on Saudi Trading
+- This repository  includes my work for the final Capstone Project in the DSI course by MiSK.
 
 
-Topic: The Trading volume in Saudi Arabia from 2018-2021 (before and during covid).
+## Why this topic: 
+- COVID-19 has affected the whole world in terms of health, economy, and even businesses.
+- Since I have some experience with my father's business in exporting, I have noticed the changes on the field and wanted to explore the effect of COVID-19 on the whole country.
 
-Why this topic: 
+## Main covered points:
+- Saudi exports overview.
+- changes on exports during COVID-19 (2020 & 2021).
+- Top five exports in 2019, 2020, 2021.
+- Saudi imports overview.
+- Changes on imports during COVID-19 (2020 & 2021).
+- Top five imports in 2019, 2020, 2021.
+- Summary of changes during these years.
 
-1- How much is the effect of COVID-19 on the Saudi imports & export?
-2- What are the main areas that got affected? 
-3- How much did the Saudi import & export change from 2011 to 2020?
-4- What does Saudi export the most? Such as dates, cooking oil, used cars, used clothes, etc.
-5- What does Saudi import the most? Such as new cars, new clothes, medicine, medical equipment (Masks during covid), etc.
-6- What are the things that Saudi is planning to produce to lower their dependincy on importing? military equipment, electric cars, etc. 
-7- How much has Saudi been importing & exporting in petrochemicals, medicine, car parts, and vegetables? 
+### Questions that I am answering using the data:
 
-Intersting Question: How much does the oil exports add to the Saudi economy? 
+- How much did COVID-19 affect the Saudi imports & export?
+- What are the main areas that got affected? 
+- What are the changes on the Saudi exports & imports from 2011-2021?
+- What does Saudi export the most?
+- How much does the Saudi economy rely on oil?
+- Are the non-oil exports increasing?
+- What does Saudi import the most? 
+- Is Saudi Arabia recovering from the effects of COVID-19?
 
-All of these questions, and even more, can be answered from these massive excel sheets I found online. 
-I can even look up online how much Saudi is expecting to produce by 2030, and estimate how much money Saudi would spend inside the country rather than spending outside the country on importing.
-
-Data source: https://www.stats.gov.sa/ar/325
-
-The data I found is huge! and I am 100% sure that when I spend more time exploring this data, I will come up with even better questions to ask, analyze, and answer.
+The data was downloaded from this source: https://www.stats.gov.sa/ar/325.
+I also used some information and data from these sources:
+- 
+- 
