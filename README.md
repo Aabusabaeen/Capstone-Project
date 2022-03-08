@@ -26,7 +26,10 @@
 - What does Saudi import the most? 
 - Is Saudi Arabia recovering from the effects of COVID-19?
 
-The data was downloaded from this source: https://www.stats.gov.sa/ar/325.
-I also used some information and data from these sources:
-- 
-- 
+The data were downloaded from: 
+- https://www.stats.gov.sa/ar/325.
+- https://www.macrotrends.net/2516/wti-crude-oil-prices-10-year-daily-chart.
+- https://www.statista.com/statistics/1026237/saudi-arabia-vat-revenue/
+I also used some information from:
+- https://www.opec.org/opec_web/en/about_us/169.htm
+- https://www.state.gov/u-s-relations-with-saudi-arabia/
